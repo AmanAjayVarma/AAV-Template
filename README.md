@@ -64,11 +64,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gitlab.com/amanajayvarma/AAV-Template/-/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-The versions available, see the [tags on this repository](https://gitlab.com/amanajayvarma/AAV-Template/-/tags). 
+The versions available, see the [tags on this repository](releases). 
 
 ## Authors
 
