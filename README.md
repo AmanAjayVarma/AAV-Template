@@ -62,13 +62,17 @@ Add additional notes about how to deploy this on a live system
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
+## Versioning
+
+The versions available, see the [tags on this repository](/releases).
+
+## Support
+
+To support this project development please consider [Donating](https://paypal.com/).
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-The versions available, see the [tags on this repository](/releases). 
 
 ## Authors
 
