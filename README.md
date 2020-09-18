@@ -68,7 +68,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-The versions available, see the [tags on this repository](releases). 
+The versions available, see the [tags on this repository](/releases). 
 
 ## Authors
 
