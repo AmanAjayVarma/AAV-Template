@@ -68,11 +68,11 @@ The versions available, see the [tags on this repository](/releases).
 
 ## Support
 
-To support this project development please consider [Donating](https://paypal.com/).
+To support this project development please consider [DONATING](https://paypal.com/).
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
@@ -82,7 +82,7 @@ See also the list of [contributors](@all) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [`LICENSE.md`](LICENSE.md) file for details
 
 ## Acknowledgments
 
