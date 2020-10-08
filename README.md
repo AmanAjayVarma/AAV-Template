@@ -68,7 +68,7 @@ The versions available, see the [tags on this repository](/releases).
 
 ## 🚸 Support
 
-To support this project development please consider [DONATING](https://paypal.com/).
+To support this project development please consider [DONATING](https://www.blockchain.com/btc/address/197TbLvYEEaNM6GgFrv5rG2zM5nvfTNzEG).
 
 ## 👥 Contributing
 
