@@ -76,7 +76,7 @@ Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) for details on our code of cond
 
 ## ✏️ Authors
 
-* **Billie Thompson** - *Initial work* - [AAV](https://amanajayvarma.gitlab.io)
+* **Billie Thompson** - *Initial work* - [BT](/)
 
 See also the list of [contributors](@all) who participated in this project.
 
