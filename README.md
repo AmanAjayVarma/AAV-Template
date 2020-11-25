@@ -68,7 +68,7 @@ The versions available, see the [tags on this repository](/releases).
 
 ## 🚸 Support
 
-To support this project development please consider [DONATING](https://kutt.it/Cryptocurrency).
+To support this project development please consider [DONATING](https://fillyagioro.vercel.app/#support).
 
 ## 👥 Contributing
 
