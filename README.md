@@ -72,7 +72,7 @@ To support this project development please consider [DONATING](https://fillyagio
 
 ## 👥 Contributing
 
-Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [`CONTRIBUTING`](https://github.com/FillyAgioro/.github/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## ✏️ Authors
 
@@ -82,7 +82,7 @@ See also the list of [contributors](@all) who participated in this project.
 
 ## 📄️ License
 
-This project is licensed under the MIT License - see the [`LICENSE.txt`](LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE.txt) file for details
 
 ## 🙏️ Acknowledgments
 
